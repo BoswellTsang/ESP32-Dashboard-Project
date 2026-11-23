@@ -15,4 +15,4 @@ The ESP32 initializes peripherals, reads RTC information, connects to Wi-Fi when
 
 **Main interfaces:** SPI for display; I²C for RTC; Wi-Fi and HTTP/JSON for remote services.
 
-**Hardware:** custom two-layer PCB with charging/regulation, reset circuitry, decoupling and status LED. The final KiCad files need to be uploaded to document exact net names, component values and footprints.
+**Hardware:** custom two-layer PCB with charging/regulation, reset circuitry, decoupling and status LED. 
