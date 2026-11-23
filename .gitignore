@@ -1,0 +1,25 @@
+# KiCad machine-local and temporary files
+*-backups/
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.lck
+*~
+*.tmp
+*.bak
+# Local credentials / Arduino environment
+secrets.h
+.env
+.env.*
+!.env.example
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Build artifacts
+build/
+.pio/
+*.elf
+*.bin
+*.map
