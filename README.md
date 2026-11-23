@@ -1,1 +1,1 @@
-# ESP32-Dashboard-Project
+# ESP32-Smart-Dashboard-Project
