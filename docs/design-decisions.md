@@ -12,5 +12,4 @@ The program needed to keep selected information across sleep/wake cycles. Data h
 ## Serial and networking interfaces
 SPI drives the e-ink display; I²C connects the DS3231 RTC. The ESP32 makes Wi-Fi HTTP requests, parses JSON and formats weather/calendar information.
 
-## Future documentation
-Add detailed schematic rationale, measured current in active/sleep modes, battery charge/discharge tests, and PCB layout screenshots. Do not describe assumed specifications as measured results.
+
